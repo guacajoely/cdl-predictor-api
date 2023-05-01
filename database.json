@@ -1,0 +1,135 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "JimboJankinz",
+            "email": "user@user.com",
+            "password": "nantucket"
+        },
+        {
+            "username": "Steve",
+            "password": "password",
+            "email": "steve@yahoo.com",
+            "id": 2
+        }
+    ],
+    "predictions": [
+        {
+            "id": 1,
+            "userId": 1,
+            "winnerId": 2,
+            "loserId": 8,
+            "loserScore": 0
+        }
+    ],
+    "teams": [
+        {
+            "id": 1,
+            "name": "breach",
+            "fullName": "Boston Breach",
+            "hp": 49,
+            "snd": 51,
+            "con": 58,
+            "seed": 7
+        },
+        {
+            "id": 2,
+            "name": "faze",
+            "fullName": "Atlanta Faze",
+            "hp": 44,
+            "snd": 74,
+            "con": 49,
+            "seed": 1
+        },
+        {
+            "id": 3,
+            "name": "guerrillas",
+            "fullName": "Los Angeles Guerrillas",
+            "hp": 37,
+            "snd": 44,
+            "con": 39,
+            "seed": 10
+        },
+        {
+            "id": 4,
+            "name": "legion",
+            "fullName": "Las Vegas Legion",
+            "hp": 41,
+            "snd": 68,
+            "con": 23,
+            "seed": 8
+        },
+        {
+            "id": 5,
+            "name": "mutineers",
+            "fullName": "Florida Mutineers",
+            "hp": 26,
+            "snd": 49,
+            "con": 38,
+            "seed": 11
+        },
+        {
+            "id": 6,
+            "name": "optic",
+            "fullName": "Optic Texas",
+            "hp": 66,
+            "snd": 55,
+            "con": 45,
+            "seed": 3
+        },
+        {
+            "id": 7,
+            "name": "rokkr",
+            "fullName": "Minnesota Rokkr",
+            "hp": 41,
+            "snd": 37,
+            "con": 61,
+            "seed": 9
+        },
+        {
+            "id": 8,
+            "name": "ravens",
+            "fullName": "London Royal Ravens",
+            "hp": 43,
+            "snd": 36,
+            "con": 25,
+            "seed": 12
+        },
+        {
+            "id": 9,
+            "name": "subliners",
+            "fullName": "New York Subliners",
+            "hp": 59,
+            "snd": 48,
+            "con": 64,
+            "seed": 4
+        },
+        {
+            "id": 10,
+            "name": "surge",
+            "fullName": "Seatle Surge",
+            "hp": 60,
+            "snd": 35,
+            "con": 61,
+            "seed": 6
+        },
+        {
+            "id": 11,
+            "name": "thieves",
+            "fullName": "Los Angeles Thieves",
+            "hp": 63,
+            "snd": 51,
+            "con": 65,
+            "seed": 5
+        },
+        {
+            "id": 12,
+            "name": "ultra",
+            "fullName": "Toronto Ultra",
+            "hp": 61,
+            "snd": 49,
+            "con": 69,
+            "seed": 2
+        }
+    ]
+}
