@@ -21,11 +21,114 @@
   ],
   "predictions": [
     {
-      "id": 1,
-      "userId": 1,
-      "winnerId": 2,
-      "loserId": 8,
-      "loserScore": 0
+      "userId": 2,
+      "team1": 3,
+      "team2": 2,
+      "score": [
+        0,
+        3
+      ],
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "team1": 6,
+      "team2": 4,
+      "score": [
+        3,
+        1
+      ],
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "team1": 12,
+      "team2": 10,
+      "score": [
+        3,
+        0
+      ],
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "team1": 8,
+      "team2": 7,
+      "score": [
+        2,
+        3
+      ],
+      "id": 4
+    },
+    {
+      "userId": 2,
+      "team1": 9,
+      "team2": 4,
+      "score": [
+        3,
+        1
+      ],
+      "id": 5
+    },
+    {
+      "userId": 2,
+      "team1": 1,
+      "team2": 7,
+      "score": [
+        3,
+        1
+      ],
+      "id": 6
+    },
+    {
+      "userId": 2,
+      "team1": 11,
+      "team2": 12,
+      "score": [
+        3,
+        1
+      ],
+      "id": 7
+    },
+    {
+      "userId": 2,
+      "team1": 3,
+      "team2": 5,
+      "score": [
+        3,
+        1
+      ],
+      "id": 8
+    },
+    {
+      "userId": 2,
+      "team1": 6,
+      "team2": 2,
+      "score": [
+        2,
+        3
+      ],
+      "id": 9
+    },
+    {
+      "userId": 2,
+      "team1": 11,
+      "team2": 9,
+      "score": [
+        3,
+        0
+      ],
+      "id": 10
+    },
+    {
+      "userId": 2,
+      "team1": 8,
+      "team2": 3,
+      "score": [
+        2,
+        3
+      ],
+      "id": 11
     }
   ],
   "teams": [
@@ -60,7 +163,7 @@
       "id": 4,
       "name": "legion",
       "fullName": "Las Vegas Legion",
-      "hp": 41,
+      "hp": 42,
       "snd": 68,
       "con": 23,
       "seed": 9
